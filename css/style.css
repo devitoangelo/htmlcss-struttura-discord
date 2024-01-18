@@ -54,7 +54,7 @@ header {
 
 
 
-#figlio {
+.figlio {
     background-color: #1e90ff;
     width: 40%;
     margin-top: 20px;
@@ -64,7 +64,7 @@ header {
 
 
 
-#figlio1 {
+.figlio1 {
     background-color: #FFC0CB;
     width: 20%;
     margin-top: 20px;
