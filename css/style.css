@@ -1,4 +1,3 @@
-
 /* siteheader */
 
 body {
@@ -24,3 +23,115 @@ header {
 }
 
 /* endheader */
+
+/* sitemain */
+.debug main {
+    background-color: fuchsia;
+    width: 50%;
+    height: 300px;
+    margin: 20px
+}
+
+
+/* firstcontainer */
+.container {
+    display: flex;
+    background-color: blue;
+    justify-content: center;
+
+}
+
+/* endpart */
+
+/* container1 */
+.contanier1 {
+    display: flex;
+    background-color: #fff;
+    height: 400px;
+    justify-content: center;
+}
+
+
+
+
+#figlio {
+    background-color: #1e90ff;
+    width: 40%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+
+
+#figlio1 {
+    background-color: #FFC0CB;
+    width: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+/* endpart */
+
+/* container2 */
+.contanier2 {
+
+
+    display: flex;
+    background-color: #D3D3D3;
+    height: 400px;
+    justify-content: center;
+    flex-direction: row-reverse;
+
+}
+
+#figlio2 {
+    width: 60%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #228B22;
+
+
+}
+
+/* endpart */
+
+
+/* container3 */
+.contanier3 {
+    display: flex;
+    background-color: black;
+    height: 350px;
+    justify-content: center;
+
+
+}
+
+
+
+
+
+#figlio4 {
+    width: 10%;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    background-color: #228B22;
+
+
+}
+
+
+
+
+#figlio3 {
+    width: 20%;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    background-color: #F08080;
+
+}
+
+/* endpart */
+
+/* endmain */
