@@ -1,0 +1,26 @@
+
+/* siteheader */
+
+body {
+    margin: 0;
+
+}
+
+header {
+    height: 50px;
+    background-color: #ADD8E6;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+#id-header {
+    width: 50%;
+    background-color: #DAA520;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+/* endheader */
