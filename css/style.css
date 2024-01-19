@@ -1,7 +1,10 @@
 /* siteheader */
 
-body {
+*{
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
 
 }
 
@@ -15,12 +18,19 @@ header {
 
 
 #id-header {
-    width: 50%;
+    width: 80%;
     background-color: #DAA520;
     margin-top: 10px;
     margin-bottom: 10px;
+    display: flex;
 
 }
+
+    
+
+
+
+
 
 /* endheader */
 
@@ -36,7 +46,7 @@ header {
 /* firstcontainer */
 .container {
     display: flex;
-    background-color: blue;
+    background-image: url(../jumbo.png);   
     justify-content: center;
 
 }
@@ -159,5 +169,41 @@ header {
 
 /* endfooter */
 
+
+
+
+
+
+
+.link{
+    list-style: none;
+	display: flex;
+    justify-content: center;
+	gap:  2rem;
+    color:white;
+
+
+}
+
+
+.menu{
+
+    margin-left: 18rem;
+    color: black;
+    border: 3px solid white;
+    border-radius: 2rem;
+    background-color: white;
+    padding: 5px;
+   
+
+
+}
+
+
+.logo{
+    gap: 2rem;
+    margin-right: 20rem;
+    color: white;
+}
 
 
